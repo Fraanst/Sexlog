@@ -1,8 +1,11 @@
 # eSapiens
 
-## Necessário Node.js e Protractor
+## Necessário instalar Node.js e Protractor
 
-### Instalar e Iniciar o Servidor 
+1. Baixar e instalar Node.js (https://nodejs.org/en/)
+2. npm install -g protractor
+
+### Iniciar o Servidor 
 
 1. cd ..\Sexlog
 2. webdriver-manager update
